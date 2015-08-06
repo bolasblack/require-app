@@ -1,5 +1,7 @@
 # require-app
 
+Inspired by [Browserify Handbook](https://github.com/substack/browserify-handbook#avoiding-).
+
 ## Usage
 
 Install `require-app`:
