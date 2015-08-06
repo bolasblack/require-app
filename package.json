@@ -1,0 +1,17 @@
+{
+  "name": "require-app",
+  "version": "0.0.1",
+  "description": "Make `require('app/path/to/project/file')` possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "sh ./make_symlink.sh"
+  },
+  "keywords": [
+    "require",
+    "nodule_modules"
+  ],
+  "author": "c4605 <bolasblack@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
